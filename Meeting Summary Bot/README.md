@@ -10,7 +10,7 @@ This repository contains an n8n workflow designed to process meeting transcript 
 
     📑 Extract from PDF – Converts the PDF content into raw text.
 
-    🎙 Extract Speaker Dialogue Section – Filters the raw text to retain only dialogues (removes headers, footers, page numbers, etc.).
+    🎙 Extract Speaker Dialogue Section – Filters the raw text to retain only dialogues.
 
     🧩 Text Splitting – Uses Recursive Character Text Splitter to break dialogues into manageable chunks.
 
